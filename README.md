@@ -46,3 +46,10 @@ Filament is powerful and flexible, but its complexity can introduce security ris
 ```bash
 git clone https://github.com/yourusername/filament-scan.git
 cd filament-scan
+```
+
+### Run Program
+```bash
+python filament_scan.py <target_url>
+python filament_scan.py https://example.com
+```
